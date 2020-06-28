@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kasalar>
+	<kasa>
+		<adi>Chroma 2</adi>
+		<resim>https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFAuhqSaKWtEu43mxtbbk6b1a77Twm4Iu8Yl3bCU9Imii1Xt80M5MmD7JZjVLFH-6VnQJQ/360fx360f</resim>
+		<silahlar>
+			<silah>
+				<adi>AK-47 | Seçkin Yapım</adi>
+				<deger>40</deger>
+				<renk>rgb(75, 105, 255)</renk>
+				<resim>https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_cu_ak47_mastery_light_large.4305c0ba4b02ce531fc08c275fa6a9d87da2cf7e.png</resim>
+			</silah>
+			<silah>
+				<adi>MP7 | Zırh Çekirdeği</adi>
+				<deger>20</deger>
+				<renk>rgb(75, 105, 255)</renk>
+				<resim>https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp7_aq_mp7_ultramodern_light_large.5351e1926e4a9599d149c4941a8603f4143ff999.png</resim>
+			</silah>
+			<silah>
+				<adi>Desert Eagle | Bronz Deko</adi>
+				<deger>25</deger>
+				<renk>rgb(75, 105, 255)</renk>
+				<resim>https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_deagle_am_bronze_sparkle_light_large.42dc1d2bae9e586f75d6425f94a195014891533b.png</resim>
+			</silah>
+			<silah>
+				<adi>P250 | Valans</adi>
+				<deger>20</deger>
+				<renk>rgb(75, 105, 255)</renk>
+				<resim>https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p250_aq_p250_contour_light_large.faf5b305c68d8ea23814163b0a69dafa7318b818.png</resim>
+			</silah>
+			<silah>
+				<adi>Negev | Man-o'-war</adi>
+				<deger>20</deger>
+				<renk>rgb(75, 105, 255)</renk>
+				<resim>https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_negev_am_negev_glory_light_large.11ebbe525e92bd0a56dd4d3a7795a31a01823ba7.png</resim>
+			</silah>
+			<silah>
+				<adi>Sawed-Off | Origami</adi>
+				<deger>15</deger>
+				<renk>rgb(75, 105, 255)</renk>
+				<resim>https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_sawedoff_cu_sawedoff_origami_light_large.5f1b3cef6d518cda69daafddd9b2c240a29cf0cc.png</resim>
+			</silah>
+			<silah>
+				<adi>AWP | Solucan Tanrısı</adi>
+				<deger>45</deger>
+				<renk>rgb(136, 71, 255)</renk>
+				<resim>https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_awp_aq_awp_twine_light_large.f976c41b8f978d2b8d13734f14f6586982d859f1.png</resim>
+			</silah>
+			<silah>
+				<adi>MAG-7 | Kızgın</adi>
+				<deger>50</deger>
+				<renk>rgb(136, 71, 255)</renk>
+				<resim>https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mag7_cu_mag7_redhot_light_large.76087a836e8c98fd10765a4b56dca946ba5acb4d.png</resim>
+			</silah>
+			<silah>
+				<adi>CZ75-Otomatik | Pol Pozisyon</adi>
+				<deger>50</deger>
+				<renk>rgb(136, 71, 255)</renk>
+				<resim>https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_cz75a_cu_cz75_precision_light_large.a0d0ea9d92ff9c535cbdaa9c07a1a95a5181a82b.png</resim>
+			</silah>
+			<silah>
+				<adi>UMP-45 | Grand Prix</adi>
+				<deger>50</deger>
+				<renk>rgb(136, 71, 255)</renk>
+				<resim>https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ump45_am_ump_racer_light_large.6d935bf0d33ca90994b1dd9aec78a8938dcd94a2.png</resim>
+			</silah>
+			<silah>
+				<adi>Five-SeveN | Maymun İşi</adi>
+				<deger>60</deger>
+				<renk>rgb(211, 44, 230)</renk>
+				<resim>https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_fiveseven_cu_fiveseven_banana_light_large.2d78a6614cb329ada893c8d028eb5c2b485f26f0.png</resim>
+			</silah>
+			<silah>
+				<adi>Galil AR | Eko</adi>
+				<deger>75</deger>
+				<renk>rgb(211, 44, 230)</renk>
+				<resim>https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_galilar_cu_galil_eco_light_large.7f64e2d77423b3c4263a74caeda18383c2e487d5.png</resim>
+			</silah>
+			<silah>
+				<adi>FAMAS | Cin</adi>
+				<deger>75</deger>
+				<renk>rgb(211, 44, 230)</renk>
+				<resim>https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_famas_aq_famas_jinn_light_large.a0e1b8e2a572c5e3d6472181d4a0d6ce7f51139f.png</resim>
+			</silah>
+			<silah>
+				<adi>M4A1-S | Hiper Canavar</adi>
+				<deger>85</deger>
+				<renk>rgb(235, 75, 75)</renk>
+				<resim>https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_silencer_cu_m4a1_hyper_beast_light_large.31850937661935a062d5f6faf5a1f02fdb90b861.png</resim>
+			</silah>
+			<silah>
+				<adi>MAC-10 | Neon Sürücü</adi>
+				<deger>80</deger>
+				<renk>rgb(235, 75, 75)</renk>
+				<resim>https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mac10_cu_mac10_neonrider_light_large.e19de002e7c2dfe0a24bdbc56fff890ec45a0d6b.png</resim>
+			</silah>
+			<silah>
+				<adi>Bıçak</adi>
+				<deger>95</deger>
+				<renk>rgb(255, 215, 0)</renk>
+				<resim>https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaIAlp1fb3cyhW-NmkkoyS2aCtZ-qFwW4JvMQlj7CVp9qn2Aaw_0ZtZ2z6JYbGIFQ-YV_X81btlOvxxcjrQyWGkSc/360fx360f</resim>
+			</silah>
+		</silahlar>
+	</kasa>
+</kasalar>
